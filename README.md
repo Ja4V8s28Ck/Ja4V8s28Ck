@@ -1,6 +1,6 @@
-
-<img align="middle" src="https://user-images.githubusercontent.com/66721411/190473750-7547347c-2d18-4112-9597-d98852cc3264.png"/>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66721411/190473750-7547347c-2d18-4112-9597-d98852cc3264.png"/>
+</p>
 
 <h2 align="center">Ju57 4n07h3r w31rd0 wh0 c4n 5cr1p7 🐱‍👤 </h2>
 
